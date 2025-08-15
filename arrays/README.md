@@ -1,0 +1,26 @@
+# Arrays
+
+## Index
+
+1. [Move zeros to end](./01%20Move%20Zeros%20to%20End.md)
+2. [Remove duplicates from sorted array](./02%20Remove%20duplicates%20from%20sorted%20array.md)
+3. [Find missing number](./03%20Find%20missing%20number.md)
+4. [Union of two sorted arrays](./04%20Union%20of%20two%20sorted%20arrays.md)
+5. [Intersection of two sorted arrays](./05%20Intersection%20of%20two%20sorted%20arrays.md)
+6. [Leaders in an array](./06%20Leaders%20in%20an%20Array.md)
+7. [Rearrange array elements by sign](./07%20Rearrange%20array%20elements%20by%20sign.md)
+8. [Print the matrix in spiral manner](./08%20Print%20the%20matrix%20in%20spiral%20manner.md)
+9. [Pascal's Triangle I](./09%20Pascal's%20Triangle%20I.md)
+10. [Pascal's Triangle II](./10%20Pascal's%20Triangle%20II.md)
+11. [Pascal's Triangle III](./11%20Pascal's%20Triangle%20III.md)
+12. [Rotate matrix by 90 degree](./12%20Rotate%20matrix%20by%2090%20degrees.md)
+13. [Two sum](./13%20Two%20sum.md)
+14. [Three sum](./14%20three%20sum.md)
+15. [Four sum](./15%20Four%20Sum.md)
+16. [Sort an array of 0's 1's and 2's](./16%20Sort%20an%20array%20of%200's%201's%20and%202's.md)
+17. [Kadane's Algorithm](./17%20Kadane's%20Algorithm.md)
+18. [Next Permutation](./18%20Next%20Permutation.md)
+19. [Majority Element I](./19%20Majority%20Element%20I.md)
+20. [Majority Element II](./20%20Majority%20Element-II.md)
+21. [Find the repeating and missing number](./21%20Find%20the%20repeating%20and%20missing%20number.md)
+22. [Count inversion](./22%20Count%20Inversions.md)

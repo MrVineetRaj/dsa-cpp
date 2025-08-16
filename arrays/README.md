@@ -24,3 +24,5 @@
 20. [Majority Element II](./20%20Majority%20Element-II.md)
 21. [Find the repeating and missing number](./21%20Find%20the%20repeating%20and%20missing%20number.md)
 22. [Count inversion](./22%20Count%20Inversions.md)
+23. [Maximum product subarray in an array](./23%20Maximum%20Product%20Subarray%20in%20an%20Array.md)
+24. [Merge two sorted array without extra space](./24%20Merge%20two%20sorted%20arrays%20without%20extra%20space.md)

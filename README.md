@@ -2,7 +2,7 @@ I am vineet raj and i am on a journey to solve all the questions from striver sh
 
 # Index
 
-## Arrays
+## [Arrays](./arrays/README.md)
 
 1. [Move zeros to end](./arrays/01%20Move%20Zeros%20to%20End.md)
 2. [Remove duplicates from sorted array](./arrays/02%20Remove%20duplicates%20from%20sorted%20array.md)
@@ -26,8 +26,40 @@ I am vineet raj and i am on a journey to solve all the questions from striver sh
 20. [Majority Element II](./arrays/20%20Majority%20Element-II.md)
 21. [Find the repeating and missing number](./arrays/21%20Find%20the%20repeating%20and%20missing%20number.md)
 22. [Count inversion](./arrays/22%20Count%20Inversions.md)
+23. [Maximum product subarray in an array](./arrays/23%20Maximum%20Product%20Subarray%20in%20an%20Array.md)
+24. [Merge two sorted array without extra space](./arrays/24%20Merge%20two%20sorted%20arrays%20without%20extra%20space.md)
 
-## Graphs
+## [LinkedLists](./linked-lists/README.md)
+
+1.  [Traversal in Linked List](./linked-lists/01%20Traversal%20in%20Linked%20List.md)
+2.  [Deletion of the head of LL](./linked-lists/02%20Deletion%20of%20the%20head%20of%20LL.md)
+3.  [Deletion of the tail of LL](./linked-lists/03%20Deletion%20of%20the%20tail%20of%20LL.md)
+4.  [Deletion of the Kth element of LL](./linked-lists/04%20Deletion%20of%20the%20Kth%20element%20of%20LL.md)
+5.  [Delete the element with value X](./linked-lists/05%20Delete%20the%20element%20with%20value%20X.md)
+6.  [Insertion at the head of LL](./linked-lists/06%20Insertion%20at%20the%20head%20of%20LL.md)
+7.  [Insertion at the tail of LL](./linked-lists/07%20Insertion%20at%20the%20tail%20of%20LL.md)
+8.  [Insertion at the Kth position of LL](./linked-lists/08%20Insertion%20at%20the%20Kth%20position%20of%20LL.md)
+9.  [Insertion before the value X in LL](./linked-lists/09%20Insertion%20before%20the%20value%20X%20in%20LL.md)
+10. [Add two numbers in LL](./linked-lists/10%20Add%20two%20numbers%20in%20LL.md)
+11. [Segregate odd and even nodes in LL](./linked-lists/11%20Segregate%20odd%20and%20even%20nodes%20in%20LL.md)
+12. [Sort a LL of 0's 1's and 2's](./linked-lists/12%20Sort%20a%20LL%20of%200's%201's%20and%202's.md)
+13. [Remove Nth node from the back of the LL](./linked-lists/13%20Remove%20Nth%20node%20from%20the%20back%20of%20the%20LL.md)
+14. [Reverse a LL](./linked-lists/14%20Reverse%20a%20LL.md)
+15. [Add one to a number represented by LL](./linked-lists/15%20Add%20one%20to%20a%20number%20represented%20by%20LL.md)
+16. [Find Middle of Linked List](./linked-lists/16%20Find%20Middle%20of%20Linked%20List.md)
+17. [Delete the middle node in LL](./linked-lists/17%20Delete%20the%20middle%20node%20in%20LL.md)
+18. [Check if LL is palindrome or not](./linked-lists/18%20Check%20if%20LL%20is%20palindrome%20or%20not.md)
+19. [Find the intersection point of Y LL](./linked-lists/19%20Find%20the%20intersection%20point%20of%20Y%20LL.md)
+20. [Detect a loop in LL](./linked-lists/20%20Detect%20a%20loop%20in%20LL.md)
+21. [Find the starting point in LL](./linked-lists/21%20Find%20the%20starting%20point%20in%20LL.md)
+22. [Reverse LL in group of given size K](./linked-lists/22%20Reverse%20LL%20in%20group%20of%20given%20size%20K.md)
+23. [Rotate a LL](./linked-lists/23%20Rotate%20a%20LL.md)
+24. [Merge two Sorted Lists](./linked-lists/24%20Merge%20two%20Sorted%20Lists.md)
+25. [Flattening of LL](./linked-lists/25%20Flattening%20of%20LL.md)
+26. [Sort LL](./linked-lists/26%20Sort%20LL.md)
+27. [Clone a LL with random and next pointer](./linked-lists/27%20Clone%20a%20LL%20with%20random%20and%20next%20pointer.md)
+
+## [Graphs](./graphs/)
 
 1. [Number of Provinces](./graphs/01%20Number%20of%20provinces.md)
 2. [Number of islands](./graphs/02%20Number%20of%20islands.md)
